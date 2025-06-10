@@ -1,2 +1,1 @@
-# Bytequest2
-Proyecto Bytequest de 
+Proyecto Bytequest
